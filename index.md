@@ -1,6 +1,6 @@
 # About Me
 
-Hello! My name is Elliot Krawczyk. I study at the University of Washington. This page says a little about me.
+Hello! My name is Elliot Krawczyk. I study at the *University of Washington*. This page says a little about me.
 
 <img src="headshot.jpg" alt="A headshot of Elliot Krawczyk" width="200">
 
@@ -31,3 +31,8 @@ I have some experience with programming, starting with college classes in highsc
 One of my favorite quotes is from The Stormlight Archive book series by Brandon Sanderson. 
 
 > "Sometimes a hypocrite is just a man in the process of changing."
+
+## Other projects
+
+[More about me!] (about.html)
+[My personal website] (https://students.washington.edu/ekraw/)
