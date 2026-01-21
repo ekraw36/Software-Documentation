@@ -2,7 +2,7 @@
 
 Hello! My name is Elliot Krawczyk. I study at the University of Washington. This page says a little about me.
 
-![A headshot of Elliot Krawczyk](headshot.jpg)
+<img src="headshot.jpg" alt="A headshot of Elliot Krawczyk" width="200">
 
 ## Academics
 
